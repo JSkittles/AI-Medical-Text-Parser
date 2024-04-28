@@ -8,5 +8,5 @@ This project was intially created so as to let peope more simply read and unders
 The project requires two python scripts as well as a binary classification dataset as a .csv file.
 
 First, download the Medical terms dataset as a .csv file.
-Next, run the program findCompText.py to create a model. THis will likely take some time. Test the model with more the code that is in the comments at the bottom of the script once the model is created (To do this, you must also comment out the training program that was used to run the program).
+Next, run the program findCompText.py to create a model. This will likely take some time. Test the model with more the code that is in the comments at the bottom of the script once the model is created (To do this, you must also comment out the training program that was used to run the program).
 Lastly, run the program test.py.
